@@ -29,7 +29,7 @@ eco _
 echo Establezca la variable JAVA_HOME en su entorno para que coincida con la
 ubicación de eco de su instalación de Java.
 
-ir a fallar
+ir 
 
 : findJavaFromJavaHome
 establecer  JAVA_HOME = %JAVA_HOME: " =%
@@ -43,7 +43,6 @@ eco _
 echo Establezca la variable JAVA_HOME en su entorno para que coincida con la
 ubicación de eco de su instalación de Java.
 
-ir a fallar
 
 : inicio
 @ rem Obtener argumentos de línea de comandos, manejo de variantes de Windows
